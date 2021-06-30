@@ -4,13 +4,13 @@ about:
   title : About Us
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : IETE Students Forum 
+    content : We are a Techno-management club which conducts workshops, webinars and other technical events like web development , robotics etc
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : About the event
+    content : ne✘us is a  Front End Developing  event for all the Technocrats around the Nationn who have dreamt of building a website of their own.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  # - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+  #   title : Timeline
+  #   content : 16 June 2021- Workshop,</hr> 24 June 2021 -15 July 2021- First Round, 22-24 July - Second Round, 27-30 July - Prize Distribution
