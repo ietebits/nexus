@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/bg.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "NE✘US"
-  content : "Design and Traunch"
+  content : "Design and Trounce"
   button:
     enable : true
     label : "Register"
