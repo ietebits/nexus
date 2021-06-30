@@ -1,0 +1,9 @@
+@media(max-width: 650px) {
+  .hero-area {
+    background-image: url('../images/backgrounds/bgM.png') !important
+  }  
+
+  .image {
+    min-height: 240px !important;
+  }
+}

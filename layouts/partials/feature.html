@@ -3,35 +3,16 @@
 {{ if $data.feature.feature.enable }}
 {{ with $data.feature.feature }}
 {{"<!-- feature -->" | safeHTML}}
-<section class="section section-bg about-2 padding-0" id="feature">
+<section class="section section-bg about-2 padding-0" id="feature" style="padding: 70px 0 0 !important;">
 	<div class="container-fluid">
-		<div class="row">
-			<div class="col-lg-6 padding-0" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
+		<div class="row" style="display: flex; justify-content: space-around;">
+			<div class="col-lg-5 padding-0 image" style=" background-image: url('images/nexus.jpeg'); background-size: contain; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
 				<!-- this image is for trigger this section fallback background image -->
-				<img src="{{ .image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
+				<img src="images/nexus.jpeg" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
 			</div>
-			<div class="col-lg-6">
-				<div class="content-block">
-					<h2>{{ .title | markdownify }}</h2>
-					<p>{{ .content | markdownify }}</p>
-					<div class="row">
-						{{ range .feature_item }}
-						<div class="col-lg-6">
-							<div class="media">
-								{{with .icon}}
-								<div class="align-self-start mr-3">
-									<i class="{{ . }}"></i>
-								</div>
-								{{ end }}
-								<div class="media-body">
-									<h4 class="media-heading">{{ .title | markdownify }}</h4>
-									<p>{{ .content | markdownify }}</p>
-								</div>
-							</div>
-						</div>
-						{{ end }}
-					</div>
-				</div>
+			<div class="col-lg-5 padding-0 image" style=" background-image: url('images/timeline1.png'); background-size: contain; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
+				<!-- this image is for trigger this section fallback background image -->
+				<img src="images/timeline1.png" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
 			</div>
 		</div>
 	</div>
