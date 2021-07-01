@@ -2,7 +2,7 @@
 banner:
   enable : true
  
-  bg_image : "images/backgrounds/bg.png"
+  bg_image : "images/backgrounds/nexus.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "NE✘US"
   content : "Design and Trounce"
