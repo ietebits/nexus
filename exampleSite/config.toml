@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "/"
 title = "IETE"
-theme = "meghna-hugo"
+theme = "nexus"
 themesDir = "../.."
 # post pagination
 paginate = "6"
