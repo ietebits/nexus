@@ -1,7 +1,7 @@
 @media(max-width: 650px) {
-  .hero-area {
+  /* .hero-area {
     background-image: url('../images/backgrounds/bgM1.svg') !important
-  }  
+  }   */
 
   .image {
     min-height: 240px !important;
@@ -10,4 +10,11 @@
   .none{
     display: none;
   }
+}
+
+.hero-area {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: contain;
 }
