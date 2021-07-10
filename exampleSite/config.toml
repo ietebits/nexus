@@ -48,14 +48,14 @@ url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Feature"
-url = "#feature"
-weight = 1
-
-[[Languages.en.menu.main]]
 name = "Event"
 url = "#blog"
 weight = 2
+
+[[Languages.en.menu.main]]
+name = "Works"
+url = "#portfolio"
+weight = 3
 
 [[Languages.en.menu.main]]
 name = "Sponsers"

@@ -6,14 +6,14 @@ author: Abhishek
 description : "Rulebook of nexus"
 ---
 
-Nexus basically is a three round event, the first round will comprise of 2 workshops on how to create a website and host it from scratch, the Second round will be a website making competition where you can create your own website 
+Nexus basically is a two round event, firstly we conducted 2 workshops on how to create a website and host it from scratch, the First round will be a website making competition where you can create your own website 
 
-and express your imaginations. Top 10 will go to the third and final round. 
+and express your imaginations. Top 10 will go to the second and final round. 
 
 The Final will be a presentation round where you will have to present your website in front of the judges . 
 
 ## ABOUT
-1.	The website should be created from scratch. No prebuilt or purchased templates/themes should be used. Only CSS, HTML and Java Script should be used. Use of libraries like Bootstrap and jQuery are allowed.
+1.	The website should be created from scratch. No prebuilt or purchased templates/themes should be used. Only HTML, CSS and JavaScript should be used. Use of libraries like Bootstrap, jQuery , React, Angular are allowed. 
 
 2.	Site should be easily administered – content sections should be editable .
 
@@ -51,7 +51,9 @@ You can host your website on any online platform as per your wish like Netlify, 
 
 7.	Spelling and Grammar:- There should be no errors in spelling, punctuation or grammar in the final draft of the web site.
 
-8.	Copyright:- Fair use guidelines should be followed with clear, easy to locate and accurate citations for all borrowed material. No material should be there from web sites that state that permission is required unless permission has been obtained.
+8.  SEO:- The content which would be SEO friendly will be given preference. 
+
+9.	Copyright:- Fair use guidelines should be followed with clear, easy to locate and accurate citations for all borrowed material. No material should be there from web sites that state that permission is required unless permission has been obtained.
 
 ## SAMPLE ILLUSTRATIVE PROBLEMS              
  **You can make any website of your choice according to your  interest.**
