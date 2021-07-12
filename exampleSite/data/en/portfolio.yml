@@ -27,7 +27,7 @@ portfolio:
       
      # portfolio item loop
     - name : neXus Timeline
-      image : images/works/timeline1.png
+      image : images/works/timeline.png
       categories : ["design", "development"]
       content : The event starts from 10th july and will continue till 14th august.
       link : "#"

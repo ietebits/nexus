@@ -8,11 +8,11 @@ description : "This is meta description"
 
 In these tough times when the productivity rate and learning rate is going down IETE presents before you a grand event *Nexus*, It is often said that until and unless we don't do things practically we don't learn it completely. So here in this event you will learn things through workshops and then you will be given an opportunity to put down your thoughts into your projects. 
 
-Nexus basically is a three round event 
+Nexus basically is a two round event 
 
-The first round will comprise of 2 workshops on how to create a website and host it from scratch 
+Firstly we conducted 2 workshops on how to create a website and host it from scratch, 
 
-The Second round will be a website making competition where you can create your own website and express your imaginations. Top 10 will go to the third and final round. 
+The First round will be a website making competition where you can create your own website and express your imaginations. Top 10 will go to the third and final round. 
 
 The Final will be a presentation round where you will have to present your website in front of the judges . 
 
@@ -37,8 +37,8 @@ There is a lot to grab!!!
 
 ## Event Timeline:
 
-- 10 July 2021 - Registration Starts
-- 11 July - 24 July 2021- First Round
+- 12 July 2021 - Registration Starts
+- 13 July - 28 July 2021- First Round
 - 07-08 August - Second Round
 - 13-14 August - Prize Distribution
 

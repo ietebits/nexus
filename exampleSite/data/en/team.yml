@@ -60,14 +60,6 @@ team:
         - icon : ti-google # themify icon pack : https://themify.me/themify-icons
           link : "https://1password.com/"
 
-    # team member loop
-    - name : Outscal
-      # image_webp : images/team/team-3.webp
-      image : images/outscal.png
-      designation : Development  Partner
-      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      social :
-        - icon : ti-google # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.outscal.com/"
+
   
       
